@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AplikasiListView</string>
+    <string name="pilih_nama_negara">Pilih Nama Negara :</string>
+    <string name="title_main_activity">ListView Sederhana</string>
+</resources>
